@@ -5,3 +5,4 @@ Atcoder 226に関するコード
 https://atcoder.jp/contests/abc226/tasks
 
 ## 参考記事
+https://kuroro.blog/atcoder/bNxBfrBjAaHNp9ha7TY8/
